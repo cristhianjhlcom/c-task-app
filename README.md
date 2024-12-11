@@ -1,5 +1,25 @@
-# Administrador de Tareas
-Un programa que permite al usuario agregar, eliminar y marcar tareas como completadas.
+# Administrador de Tickets
+Un programa que permite al usuario agregar, eliminar y marcar tickets como completadas.
+
+## Caracteristicas
+- [ ] Agregar registro de tickets.
+    - Titulo
+    - Número del ticket
+    - URL del ticket
+    - Fecha de inicio
+    - Fecha de completo
+    - Estado del ticket
+    - Descripción
+    - Author
+    - Responsable
+- [ ] Eliminar tickets
+- [ ] Cambiar estado del ticket
+    - PENDING
+    - PROGRESS
+    - COMPLETED
+    - CANCELLED
+- [ ] Editar tickets
+- [ ] Notificaciones de tiempo limite
 
 ## Habilidades
 - Manejo de memoria dinámica para almacenar tareas.
